@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmad!
 👩🏻‍💻 Software Engineer focusing on mobile and web development<br/>
-👩🏻‍🎓 Studying [Msc in Software, Web & Cloud](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the Tampere University, Finland<br/>
+👩🏻‍🎓 Msc graduate in Software, Web & Cloud at the Tampere University, Finland<br/>
 
 
 ## 👨‍💻 Portfolio
