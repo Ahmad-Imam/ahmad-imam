@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Ahmad!
-👩🏻‍💻 Software Engineer focusing on mobile and web development<br/>
+👩🏻‍💻 Software Engineer focusing on full-stack web and cross-platform mobile application development<br/>
 👩🏻‍🎓 Msc graduate in Software, Web & Cloud at the Tampere University, Finland<br/>
 
 
 ## 👨‍💻 Portfolio
-[AhmadImam](https://ahmad-imam.vercel.app/) 
+[AhmadImam](https://ahmadimam.is-a.dev/) 
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-imam97) 
@@ -33,9 +33,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahmad-imam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
--->
----
 [![](https://visitcount.itsvg.in/api?id=ahmad-imam&icon=0&color=6)](https://visitcount.itsvg.in)
+-->
+
+ ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
